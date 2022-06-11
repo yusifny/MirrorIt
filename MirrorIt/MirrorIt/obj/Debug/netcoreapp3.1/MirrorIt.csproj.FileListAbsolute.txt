@@ -1,0 +1,12 @@
+/Users/yusifnazarbayov/Desktop/MirrorIt/MirrorIt/bin/Debug/netcoreapp3.1/MirrorIt.deps.json
+/Users/yusifnazarbayov/Desktop/MirrorIt/MirrorIt/bin/Debug/netcoreapp3.1/MirrorIt.runtimeconfig.json
+/Users/yusifnazarbayov/Desktop/MirrorIt/MirrorIt/bin/Debug/netcoreapp3.1/MirrorIt.runtimeconfig.dev.json
+/Users/yusifnazarbayov/Desktop/MirrorIt/MirrorIt/bin/Debug/netcoreapp3.1/MirrorIt.dll
+/Users/yusifnazarbayov/Desktop/MirrorIt/MirrorIt/bin/Debug/netcoreapp3.1/MirrorIt.pdb
+/Users/yusifnazarbayov/Desktop/MirrorIt/MirrorIt/obj/Debug/netcoreapp3.1/MirrorIt.csprojAssemblyReference.cache
+/Users/yusifnazarbayov/Desktop/MirrorIt/MirrorIt/obj/Debug/netcoreapp3.1/MirrorIt.AssemblyInfoInputs.cache
+/Users/yusifnazarbayov/Desktop/MirrorIt/MirrorIt/obj/Debug/netcoreapp3.1/MirrorIt.AssemblyInfo.cs
+/Users/yusifnazarbayov/Desktop/MirrorIt/MirrorIt/obj/Debug/netcoreapp3.1/MirrorIt.csproj.CoreCompileInputs.cache
+/Users/yusifnazarbayov/Desktop/MirrorIt/MirrorIt/obj/Debug/netcoreapp3.1/MirrorIt.dll
+/Users/yusifnazarbayov/Desktop/MirrorIt/MirrorIt/obj/Debug/netcoreapp3.1/MirrorIt.pdb
+/Users/yusifnazarbayov/Desktop/MirrorIt/MirrorIt/obj/Debug/netcoreapp3.1/MirrorIt.genruntimeconfig.cache
